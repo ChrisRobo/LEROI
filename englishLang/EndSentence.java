@@ -1,5 +1,5 @@
 package englishLang;
 
-public class EndSentence extends SentenceElement {
+public class EndSentence extends Sentence {
 
 }
